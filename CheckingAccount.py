@@ -32,6 +32,6 @@ class checkingaccount(object):
   
 a1 = checkingaccount('Sandeep Dwivedi', '787878787', '201 STL drive', 20000)
 
-a1.deposit(1000)
-a1.withdraw(20)
+a1.deposit(0)
+a1.withdraw(0)
 a1.report()
