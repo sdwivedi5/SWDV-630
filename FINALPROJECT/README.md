@@ -1,4 +1,4 @@
-# Django - Hotel Management System
+# Django - Hotel Management System by Sandeep Dwivedi
 * Requirement Analysis Document - System Design Document - Object Design Document - Mockups - Class Diagram - ER Diagram are in the "Documents" Folder.
 
 * It is hotel management system which has 5 different user types: <br>
@@ -79,7 +79,7 @@ python3 manage.py runserver
 * This will work if correctly set up.
 
 ## Notes:
-#### Note 1: In the program, there are some payment page. No need to enter real credit-card informations. The payment page is just for the system, it doesnt work. However; after this page, a verification code is sent the user email address.
+#### Note 1: In the program, there are some payment page. This is just mock and does not certificy payment requirement..
 
 
 #### Note 2: You can only sign up as a guest to the system. In order to add employee (Manager - Receptionist - Staff): 
