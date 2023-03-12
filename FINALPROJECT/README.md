@@ -2,21 +2,21 @@
 * All reference documents are in "Documents" Folder.
 
 
-A minimum of 12 use cases - fully elaborated!
+* A minimum of 12 use cases - fully elaborated!
 Refer to  RequirementAnalysisDocument.pdf under Documents
 
 
-A rough sketch of the UI of the system to give yourself some grounding 
+* A rough sketch of the UI of the system to give yourself some grounding 
 Refer to files under Mockups_for_the_interface folder
 
-Architecture Diagram showing major systems
+* Architecture Diagram showing major systems
 Refer to SystemDesignDocument.pdf under Documents
       
-Class Diagram for major classes in your system - 12-15 classes
+* Class Diagram for major classes in your system - 12-15 classes
 Class Diagram.jpg under Documents
       
       
-Create a sequence diagram for 1-3 objects that realize one of your use cases
+* Create a sequence diagram for 1-3 objects that realize one of your use cases
 Refer to RequirementAnalysisDocument.pdf under Documents
 
 
