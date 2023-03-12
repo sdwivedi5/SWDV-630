@@ -1,5 +1,22 @@
-# Django - Hotel Management System by Sandeep Dwivedi
-* Requirement Analysis Document - System Design Document - Object Design Document - Mockups - Class Diagram - ER Diagram are in the "Documents" Folder.
+# Hotel Management System by Sandeep Dwivedi
+* All reference documents are in "Documents" Folder.
+
+
+A minimum of 12 use cases - fully elaborated!
+      Refer to  RequirementAnalysisDocument.pdf under Documents
+A rough sketch of the UI of the system to give yourself some grounding 
+      Refer to files under Mockups_for_the_interface folder
+
+Architecture Diagram showing major systems
+      Refer to SystemDesignDocument.pdf under Documents
+      
+Class Diagram for major classes in your system - 12-15 classes
+      Class Diagram.jpg under Documents
+      
+      
+Create a sequence diagram for 1-3 objects that realize one of your use cases
+      Refer to RequirementAnalysisDocument.pdf under Documents
+
 
 * It is hotel management system which has 5 different user types: <br>
 Admin - Manager - Receptionist - Staff - Guest  (Each of the types have different permission and functionality.) 
